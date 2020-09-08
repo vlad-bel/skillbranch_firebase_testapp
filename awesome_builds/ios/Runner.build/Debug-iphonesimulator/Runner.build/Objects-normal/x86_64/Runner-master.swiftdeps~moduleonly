@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
-options: "8a84f72e758812dc61b5c678e08354e9"
-build_time: [1599506608, 718423000]
-inputs:
-  "/Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Runner/AppDelegate.swift": [1599506550, 172404011]
