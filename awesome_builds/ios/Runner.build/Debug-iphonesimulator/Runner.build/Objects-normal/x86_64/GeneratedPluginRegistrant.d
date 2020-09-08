@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/vladbel/programming/freelance/skillbranch_firebase_testapp/ios/Flutter/Flutter.framework/Headers/Flutter.h
